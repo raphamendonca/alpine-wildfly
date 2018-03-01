@@ -1,4 +1,5 @@
-FROM raphamendonca/alpine-java9
+#FROM raphamendonca/alpine-java9
+FROM anapsix/alpine-java:9
 
 MAINTAINER Raphael Mendonca <@raphamendonca>
 
